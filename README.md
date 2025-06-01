@@ -23,15 +23,14 @@ Tenho mais de 3 anos de experiência como desenvolvedor full stack e estudo Enge
         <img 
             alt="instagram subscribers" 
             title="Me segue lá" 
-            src="https://cdn.svgporn.com/logos/instagram-icon.svg"
+            src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-
+</p>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 
 <img 
     align="left" 
@@ -131,11 +130,11 @@ Tenho mais de 3 anos de experiência como desenvolvedor full stack e estudo Enge
 />
 <br/>
 <br/>
- <div align="left">
+<div align="left">
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berrigue&theme=tokyonight&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true" 
-  />
- </div>
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berrigue&theme=tokyonight&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true" 
+/>
+</div>
