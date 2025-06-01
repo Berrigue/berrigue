@@ -106,8 +106,8 @@ Tenho mais de 3 anos de experiência como desenvolvedor full stack e estudo Enge
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Bootstrap"
+    title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
