@@ -90,6 +90,14 @@ Tenho mais de 3 anos de experiência como desenvolvedor full stack e estudo Enge
 />
 <img 
     align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+<img 
+    align="left" 
     alt="Mongo" 
     title="Mongo"
     width="30px" 
@@ -103,6 +111,14 @@ Tenho mais de 3 anos de experiência como desenvolvedor full stack e estudo Enge
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
 <img 
     align="left" 
