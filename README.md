@@ -17,21 +17,24 @@ Sou um **Desenvolvedor de Software** e estudante de **Engenharia de Software e H
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens**: Python, JavaScript, TypeScript
-- **Frameworks**: FastAPI, Flask, React
-- **Ferramentas**: Git, Docker, VS Code
-- **Bancos de Dados**: PostgreSQL, MongoDB
+### Linguagens
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## 📚 Projetos em Destaque
+### Frameworks
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-- **[JSspider]**: Uma breve descrição do projeto, como um sistema web construído com FastAPI e PostgreSQL.  
-  🔗 [Link para o repositório](#)  
-- **[Restack]**: Um aplicativo para aprendizado de programação com Python.  
-  🔗 [Link para o repositório](#)
+### Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Berrigue&show_icons=true&theme=radical)
+### Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
