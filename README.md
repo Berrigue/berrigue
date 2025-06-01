@@ -5,18 +5,25 @@
 Tenho mais de 3 anos de experiência como desenvolvedor full stack e estudo Engenharia de Software. Compartilho alguns projetos que estou trabalhando no instagram "[berriguepro.](https://www.youtube.com/@berriguepro.?sub_confirmation=1)" e no meu perfil no Instagram "[Alexandre Berrigue](https://www.instagram.com/berriguepro/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@deverik.?sub_confirmation=1">
+    <a href="https://www.youtube.com/@berriguepro.?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeZQbta9mcZA7sWPi0XdR9Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.linkedin.com/in/erik-barroso/">
+    <a href="https://www.linkedin.com/in/alexandre-berrigue-467ba368/">
         <img 
             alt="Linkedin" 
             title="Me adicione no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-1155ba?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/berriguepro/">
+        <img 
+            alt="instagram subscribers" 
+            title="Me segue lá" 
+            src="https://cdn.svgporn.com/logos/instagram-icon.svg"
         />
     </a>
 
