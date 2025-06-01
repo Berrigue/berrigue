@@ -5,7 +5,7 @@
 Tenho mais de 3 anos de experiência como desenvolvedor full stack e estudo Engenharia de Software. Compartilho alguns projetos que estou trabalhando no instagram "[berriguepro](https://www.instagram.com/berriguepro/)". e no meu canal do Youtube "[Alexandre Berrigue.](https://www.youtube.com/@berriguepro)" 
 
 <p align="left">
-    <a href="https://www.youtube.com/@berriguepro.?sub_confirmation=1">
+    <a href="https://www.youtube.com/@berriguepro">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
