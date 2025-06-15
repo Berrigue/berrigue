@@ -147,10 +147,5 @@ Tenho mais de 3 anos de experiência como desenvolvedor full stack e estudo Enge
 <br/>
 <br/>
 <div align="left">
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berrigue&theme=tokyonight&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true" 
-/>
+
 </div>
